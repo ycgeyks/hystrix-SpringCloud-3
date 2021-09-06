@@ -1,0 +1,5 @@
+# Project exclude paths
+/spring-hy-dashboard/target/
+/spring-hy-member/target/
+/spring-hy-sale/target/
+/spring-hy-server/target/
